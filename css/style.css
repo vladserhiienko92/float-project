@@ -1,0 +1,82 @@
+.clearfix {
+	clear: both;
+}
+
+body {
+	margin: 0;
+}
+
+.container {
+	width: 100%;
+	max-width: 100%;
+}
+
+.sixty-percent {
+	width: 60%;
+	float: left;
+}
+
+.image1 {
+	float: left;
+	width: 20%;
+	height: 165px;
+}
+
+.fourty-percent {
+	width: 40%;
+	float: right;
+}
+
+.image2 {
+	float: left;
+	width: 50%;
+	height: 220px;
+}
+
+.one {
+	background-image: url(../img/hulk.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.two {
+	background-image: url(../img/iron.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.three {
+	background-image: url(../img/spider.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.four {
+	background-image: url(../img/captain-america.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.five {
+	background-image: url(../img/thor.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.six {
+	background-image: url(../img/loky.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.seven {
+	background-image: url(../img/panter.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.eight {
+	background-image: url(../img/muravei.jpg);
+	background-size: cover;
+	background-position: center;
+}
